@@ -13,4 +13,5 @@ export default defineConfig({
     host: '0.0.0.0',   // Allow connections from any IP (your mobile)
     port: 5173,        // You can change this if needed
   },
+   base: '/random-joke/',
 })
